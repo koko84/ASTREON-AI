@@ -1,0 +1,10 @@
+{
+  "name": "ASTREON AI",
+  "short_name": "ASTREON",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090b14",
+  "theme_color": "#090b14",
+  "description": "Your multilingual AI workspace",
+  "icons": []
+}
